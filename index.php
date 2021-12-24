@@ -1,3 +1,5 @@
+*Teamplates for swift panel* 
+
 <?php //004d4
 // WARNING: This script is protected. Any attempt to reverse engineer, debug or de-code this file or its dependent files is strictly prohibited.
 // @package SWIFT Panel Version 1.6.1

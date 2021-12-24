@@ -1,0 +1,3 @@
+# Detyra
+Per programera detyra.
+
